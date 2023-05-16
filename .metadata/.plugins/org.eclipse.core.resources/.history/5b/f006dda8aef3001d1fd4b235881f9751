@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+ 
+server:
+   port: 9443
+
+
+image:
+  upload:
+    path: C:/Deskbook/images/
+          
+          
